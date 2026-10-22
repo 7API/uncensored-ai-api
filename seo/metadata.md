@@ -8,7 +8,7 @@ Copy-paste values for GitHub, the website and social previews.
 
 **Description (GitHub, ≤350 characters):**
 
-> Uncensored AI API or model access in one key: Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible, pay per token, crypto accepted. Built by 7API.
+> Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.
 
 **Website:**
 

@@ -24,7 +24,7 @@ Upload the contents of this folder to the repo root:
 
 **Description:**
 
-> Uncensored AI API or model access in one key: Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible, pay per token, crypto accepted. Built by 7API.
+> Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.
 
 **Website:**
 

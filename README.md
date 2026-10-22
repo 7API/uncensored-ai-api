@@ -33,6 +33,18 @@ An **uncensored AI API** is a single programmatic endpoint that gives your appli
 
 > **Uncensored does not mean lawless.** Model behavior still depends on the model, version, prompt and provider policy. You stay responsible for lawful, ethical use. See [Safety & responsible use](./docs/10-safety-and-responsible-use.md).
 
+## What is an uncensored AI model?
+
+An **uncensored AI model** is a model variant trained, fine-tuned or weight-modified to refuse less often than a standard release. The model is the engine; the API is how your application reaches it, and a gateway gives you one key across families.
+
+| | |
+|---|---|
+| **Uncensored AI model** | The model itself, with reduced refusal behavior. |
+| **Uncensored AI API** | The endpoint that lets your app call that model. |
+| **API gateway** | One key, one bill and one compatible interface across model families. |
+
+Uncensored models still vary by version, prompt and provider policy. Evaluate the exact model before deploying. See [Uncensored vs. abliterated models](./docs/02-uncensored-vs-abliterated-models.md).
+
 ## ✨ What you get
 
 | | |
@@ -171,6 +183,14 @@ Live model prices are listed in the dashboard and can change when providers upda
 **What is an uncensored AI API?**
 
 An uncensored AI API gives developers programmatic access to model variants with fewer refusal behaviors than standard hosted models. 7API exposes those variants next to mainstream model families through one OpenAI- and Anthropic-compatible endpoint. [Read the full guide →](./docs/01-what-is-uncensored-ai-api.md)
+
+**What is an uncensored AI model?**
+
+An uncensored AI model is a model variant with reduced refusal behavior. The model is the engine your app calls; the API is the connection. [Read the full explanation](#what-is-an-uncensored-ai-model).
+
+**Is 7API an uncensored AI model provider?**
+
+7API is an API gateway, not the owner of the models. It provides one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, including uncensored and abliterated variants where available. The model behavior and terms belong to the underlying providers.
 
 **Is 7API OpenAI-compatible?**
 
