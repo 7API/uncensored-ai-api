@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://7api.st/?utm_source=github&utm_medium=readme&utm_campaign=uncensored-ai-api">
-  <img src="https://i.imgur.com/N5tb9s7.gif" width="600" alt="7API — one key for all frontier AI models">
+  <img src="https://i.imgur.com/N5tb9s7.gif" width="100%" alt="7API — one key for all frontier AI models">
 </a>
 
 # Uncensored AI API or Model — One Key. Every Frontier Model.
