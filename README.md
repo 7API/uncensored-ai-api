@@ -31,6 +31,8 @@ An **uncensored AI API** is a single programmatic endpoint that gives your appli
 
 **7API** is an OpenAI- and Anthropic-compatible gateway for exactly that workflow. It bundles frontier and open-weight model families — plus uncensored and abliterated variants where available — behind one API key, one balance and one billing model: pay per token, no subscription.
 
+You may also see the same idea called an **uncensored LLM API**, an **unfiltered AI API**, a **no-refusal AI API**, or an **abliterated model API**. The labels overlap; the practical questions are the same: model coverage, compatibility, billing and behavior.
+
 > **Uncensored does not mean lawless.** Model behavior still depends on the model, version, prompt and provider policy. You stay responsible for lawful, ethical use. See [Safety & responsible use](./docs/10-safety-and-responsible-use.md).
 
 ## What is an uncensored AI model?
