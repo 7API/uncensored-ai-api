@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218" height="74" viewBox="0 0 218 74" role="img" aria-label="Get API key">
+  <title>Get API key</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5dffb0"/><stop offset=".4" stop-color="#22f08a"/><stop offset="1" stop-color="#20d070"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-40%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="7.5"/>
+    </filter>
+  </defs>
+  <rect x="22" y="26" width="174" height="28" rx="14" fill="#22f08a" opacity=".55" filter="url(#glow)"/>
+  <rect x="14" y="8" width="190" height="44" rx="22" fill="url(#g)"/>
+  <rect x="14.5" y="8.5" width="189" height="43" rx="21.5" fill="none" stroke="#fff" stroke-opacity=".25"/>
+  <g transform="translate(30 19) scale(0.8)" fill="none" stroke="#03140b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="7.5" cy="12" r="3.5"/>
+    <path d="M11 12h11M18 12v4M22 12v3"/>
+  </g>
+  <text x="66" y="39" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#03140b">Get API Key</text>
+  <path d="M190 33l6 4-6 4" fill="none" stroke="#03140b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

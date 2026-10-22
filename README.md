@@ -1,22 +1,25 @@
 <div align="center">
 
 <a href="https://7api.st/?utm_source=github&utm_medium=readme&utm_campaign=uncensored-ai-api">
-  <img src="assets/banner.gif" alt="Uncensored AI API or model — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi — 7API" width="100%">
+  <img src="https://i.imgur.com/N5tb9s7.gif" width="600" alt="7API — one key for all frontier AI models">
 </a>
 
 # Uncensored AI API or Model — One Key. Every Frontier Model.
 
 **Uncensored AI access for developers: choose an uncensored AI API or an uncensored AI model and run it through one OpenAI- and Anthropic-compatible endpoint — Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, with uncensored and abliterated variants where available.**
 
-[![Website](https://img.shields.io/badge/website-7api.st-22c55e?style=flat&logo=googlechrome&logoColor=white)](https://7api.st/?utm_source=github&utm_medium=readme&utm_campaign=uncensored-ai-api)
-[![Telegram](https://img.shields.io/badge/Telegram-@seven__api-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/seven_api)
+<p>
+  <a href="https://7api.st/?utm_source=github&utm_medium=readme&utm_campaign=uncensored-ai-api"><img src="./assets/get-api.svg" width="218" height="74" alt="Get API key"></a>
+  <a href="https://t.me/seven_api"><img src="./assets/telegram-channel.svg" width="216" height="74" alt="Telegram Channel"></a>
+</p>
+
 [![Models](https://img.shields.io/badge/models-7%2B%20families-22c55e?style=flat)](#model-families)
 [![API](https://img.shields.io/badge/API-OpenAI%20%2B%20Anthropic-0ea5e9?style=flat)](#quickstart)
 [![Billing](https://img.shields.io/badge/billing-pay%20per%20token-22c55e?style=flat)](#pricing)
 [![Crypto](https://img.shields.io/badge/crypto-BTC%20%C2%B7%20ETH%20%C2%B7%20USDT%20%C2%B7%20LTC-f59e0b?style=flat)](#pricing)
 [![No subscription](https://img.shields.io/badge/subscription-none-181717?style=flat)](#pricing)
 
-[**Get an API key →**](https://7api.st/?utm_source=github&utm_medium=readme&utm_campaign=uncensored-ai-api) · [Quickstart](#quickstart) · [Docs](#documentation) · [FAQ](#faq)
+[**Get an API key →**](https://7api.st/?utm_source=github&utm_medium=readme&utm_campaign=uncensored-ai-api) · [Quickstart](#quickstart) · [Docs](#documentation) · [Telegram bot](https://t.me/hqclaudebot?start=github2)
 
 </div>
 
@@ -30,16 +33,17 @@ An **uncensored AI API** is a single programmatic endpoint that gives your appli
 
 > **Uncensored does not mean lawless.** Model behavior still depends on the model, version, prompt and provider policy. You stay responsible for lawful, ethical use. See [Safety & responsible use](./docs/10-safety-and-responsible-use.md).
 
-## Why developers use 7API
+## ✨ What you get
 
-- **One key, every family** — Claude, GPT, Gemini, Grok, DeepSeek, GLM, Kimi and more from a single account.
-- **Drop-in compatibility** — works with the OpenAI SDK, Anthropic SDK, Claude Code, Cursor, Codex CLI, OpenCode and any compatible client.
-- **Uncensored options when you need them** — uncensored and abliterated variants available for select models, alongside the standard versions.
-- **Pay per token** — no monthly subscription; cached input is billed at a lower rate.
-- **Crypto-friendly** — top up with BTC, ETH, USDT or LTC.
-- **Built for teams** — subkeys let you fund a teammate or client separately while keeping usage visible.
+| | |
+|---|---|
+| 🔑 **One key, every family** | Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi from a single account. |
+| 🔌 **Drop-in compatibility** | OpenAI SDK, Anthropic SDK, Claude Code, Cursor, Codex CLI, OpenCode and any compatible client. |
+| 🧠 **Uncensored options** | Select uncensored and abliterated variants alongside the standard models. |
+| 💳 **Pay per token** | No subscription. Prompt caching lowers repeated input; BTC, ETH, USDT and LTC accepted. |
+| 🛡️ **Honest limits** | Reduced refusals, not a guarantee. Evaluate the model before you deploy. |
 
-## Model families
+## 🧠 Model families
 
 | Family | What people use it for | Uncensored variants |
 |---|---|---|
