@@ -9,8 +9,9 @@
 **Uncensored AI access for developers: choose an uncensored AI API or an uncensored AI model and run it through one OpenAI- and Anthropic-compatible endpoint — Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, with uncensored and abliterated variants where available.**
 
 <p>
-  <a href="https://7api.st/?utm_source=github&utm_medium=readme&utm_campaign=uncensored-ai-api"><img src="./assets/get-api.svg" width="218" height="74" alt="Get API key"></a>
+  <a href="https://7api.st/?utm_source=github&utm_medium=readme&utm_campaign=uncensored-ai-api"><img src="./assets/visit-website.svg" width="208" height="74" alt="Visit website"></a>
   <a href="https://t.me/seven_api"><img src="./assets/telegram-channel.svg" width="216" height="74" alt="Telegram Channel"></a>
+  <a href="https://t.me/hqclaudebot?start=github2"><img src="./assets/telegram-bot.svg" width="183" height="74" alt="Telegram Bot"></a>
 </p>
 
 [![Models](https://img.shields.io/badge/models-7%2B%20families-22c55e?style=flat)](#model-families)
@@ -172,6 +173,9 @@ Live model prices are listed in the dashboard and can change when providers upda
 - **Multilingual assistants** — test the same prompt across model families without rebuilding your integration.
 - **Privacy-conscious prototyping** — keep billing and keys centralized while you evaluate providers.
 - **Developer tooling** — subkeys and one balance make it easier to meter usage per project or client.
+- **AI-assisted editing and tailoring** — rewrite, tighten, adapt tone and tailor copy for different audiences.
+- **Summarization and document analysis** — long-context workflows across model families.
+- **Chatbot and assistant backends** — one API for multiple model families.
 
 ## Honest limits
 
